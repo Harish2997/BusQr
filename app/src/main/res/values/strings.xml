@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusQr</string>
+    <string name="turn_off_flashlight">FlashLight on</string>
+    <string name="turn_on_flashlight">flashLight off</string>
+    <string name="title_activity_main">BusQr</string>
+
+</resources>
